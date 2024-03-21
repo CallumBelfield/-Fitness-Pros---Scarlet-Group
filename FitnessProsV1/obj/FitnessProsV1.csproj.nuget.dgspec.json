@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\johnl\\OneDrive\\Documents\\HTML Learning\\Uni\\-Fitness-Pros---Scarlet-Group\\-Fitness-Pros---Scarlet-Group\\FitnessProsV1\\FitnessProsV1.csproj": {}
+    "c:\\Users\\johnl\\OneDrive\\Documents\\HTML Learning\\Uni\\-Fitness-Pros---Scarlet-Group\\-Fitness-Pros---Scarlet-Group\\FitnessProsV1\\FitnessProsV1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\johnl\\OneDrive\\Documents\\HTML Learning\\Uni\\-Fitness-Pros---Scarlet-Group\\-Fitness-Pros---Scarlet-Group\\FitnessProsV1\\FitnessProsV1.csproj": {
+    "c:\\Users\\johnl\\OneDrive\\Documents\\HTML Learning\\Uni\\-Fitness-Pros---Scarlet-Group\\-Fitness-Pros---Scarlet-Group\\FitnessProsV1\\FitnessProsV1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\johnl\\OneDrive\\Documents\\HTML Learning\\Uni\\-Fitness-Pros---Scarlet-Group\\-Fitness-Pros---Scarlet-Group\\FitnessProsV1\\FitnessProsV1.csproj",
+        "projectUniqueName": "c:\\Users\\johnl\\OneDrive\\Documents\\HTML Learning\\Uni\\-Fitness-Pros---Scarlet-Group\\-Fitness-Pros---Scarlet-Group\\FitnessProsV1\\FitnessProsV1.csproj",
         "projectName": "FitnessProsV1",
-        "projectPath": "C:\\Users\\johnl\\OneDrive\\Documents\\HTML Learning\\Uni\\-Fitness-Pros---Scarlet-Group\\-Fitness-Pros---Scarlet-Group\\FitnessProsV1\\FitnessProsV1.csproj",
+        "projectPath": "c:\\Users\\johnl\\OneDrive\\Documents\\HTML Learning\\Uni\\-Fitness-Pros---Scarlet-Group\\-Fitness-Pros---Scarlet-Group\\FitnessProsV1\\FitnessProsV1.csproj",
         "packagesPath": "C:\\Users\\johnl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\johnl\\OneDrive\\Documents\\HTML Learning\\Uni\\-Fitness-Pros---Scarlet-Group\\-Fitness-Pros---Scarlet-Group\\FitnessProsV1\\obj\\",
+        "outputPath": "c:\\Users\\johnl\\OneDrive\\Documents\\HTML Learning\\Uni\\-Fitness-Pros---Scarlet-Group\\-Fitness-Pros---Scarlet-Group\\FitnessProsV1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

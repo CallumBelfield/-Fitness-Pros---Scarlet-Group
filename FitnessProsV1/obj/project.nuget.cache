@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XaMMOBhgTOEnheGO3bxB6B4RspYdK30Vmr+rdtgVuFc27DJIrkRrgugoSGT3QRMBMFspKH9sMbuLxlSs8BriuA==",
+  "dgSpecHash": "xGUZLcHpdYM3hOT6W7VZPXSGAjeNc/55gr3uncQCouyiYphqlcJ4OrXO5umCQYxKVnzlf1IaMuF3tCotbM475Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\johnl\\OneDrive\\Documents\\HTML Learning\\Uni\\-Fitness-Pros---Scarlet-Group\\-Fitness-Pros---Scarlet-Group\\FitnessProsV1\\FitnessProsV1.csproj",
+  "projectFilePath": "c:\\Users\\johnl\\OneDrive\\Documents\\HTML Learning\\Uni\\-Fitness-Pros---Scarlet-Group\\-Fitness-Pros---Scarlet-Group\\FitnessProsV1\\FitnessProsV1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\johnl\\.nuget\\packages\\microsoft.aspnetcore.authorization\\7.0.13\\microsoft.aspnetcore.authorization.7.0.13.nupkg.sha512",
     "C:\\Users\\johnl\\.nuget\\packages\\microsoft.aspnetcore.components\\7.0.13\\microsoft.aspnetcore.components.7.0.13.nupkg.sha512",
